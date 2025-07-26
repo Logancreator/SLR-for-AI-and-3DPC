@@ -4,6 +4,6 @@ This repository contains the collected papers, datasets, and code used for the s
 
 ## Repository Overview
 This repository includes:
-(1) Collected Papers: Metadata and references for the 398 papers analyzed in the SLR.
+(1) Collected Papers: Metadata and references for the 402 papers analyzed in the SLR.
 (2) Paper Collection Code: Scripts used to search, filter, and collect papers from the eight databases.
 (3) Datasets: Detailed information about papers in the review.
